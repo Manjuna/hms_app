@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sudhir Kushwaha
+ * @author Manjunath
  */
 public class PassWord extends javax.swing.JFrame {
 
@@ -27,7 +27,7 @@ public class PassWord extends javax.swing.JFrame {
         initComponents();
         txtsq.setEditable(false);
     }
-PreparedStatement pst;
+    PreparedStatement pst;
     Statement st=null;
     ResultSet rs;
     
