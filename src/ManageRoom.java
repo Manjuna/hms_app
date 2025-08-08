@@ -17,14 +17,12 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Sudhir Kushwaha
+ * @author Manjunath Reddy
  */
 public class ManageRoom extends javax.swing.JFrame {
     
    String s2;
-     /**
-     * Creates new form ManageRoom
-     */
+
     public ManageRoom() {
         initComponents();
         s();
