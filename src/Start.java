@@ -9,12 +9,12 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Sudhir Kushwaha
+ * @author Manjunath
  */
 public class Start extends javax.swing.JFrame {
 
     /**
-     * Creates new form Start
+     * Create New form Start
      */
     public Start() {
         initComponents();
