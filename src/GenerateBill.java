@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Sudhir Kushwaha
+ * @author Manjunath Reddy
  */
 public class GenerateBill extends javax.swing.JFrame {
     
@@ -55,6 +55,7 @@ public class GenerateBill extends javax.swing.JFrame {
         txtbill.setText(txtbill.getText()+"**********************************************************************************\n");
         txtbill.setText(txtbill.getText()+"\t\t"+"                    Thank You,Please Visit Again.");
         }
+    //connect method
     public void connect(){
         PreparedStatement pst;
         ResultSet rs;
