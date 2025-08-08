@@ -17,7 +17,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Sudhir Kushwaha
+ * @author Manjunath
  */
 public class Admin extends javax.swing.JFrame {
 
@@ -29,6 +29,7 @@ public class Admin extends javax.swing.JFrame {
         s();
         txtemail.requestFocus();
     }
+// run the connection and execute query
 public void s(){
     PreparedStatement pst=null;
     Statement st=null;
