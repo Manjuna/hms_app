@@ -1,5 +1,5 @@
 
-
+// @author S Manjunath Reddy
 public class Start1 extends javax.swing.JFrame {
 
     public Start1() {
@@ -83,7 +83,7 @@ public class Start1 extends javax.swing.JFrame {
         });
     }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
+    // Variables declaration - do not modify//GEN-BEGIN:variable
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
