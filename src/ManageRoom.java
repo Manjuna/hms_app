@@ -55,7 +55,7 @@ public class ManageRoom extends javax.swing.JFrame {
                     columnData.add(rs.getString("status"));
                 }
                 RecordTable.addRow(columnData);
-                //System.out.println(columnData);
+                System.out.println(columnData);
 
             }  
         } catch (ClassNotFoundException | SQLException ex) {}                
