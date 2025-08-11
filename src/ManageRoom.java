@@ -258,7 +258,7 @@ dispose();
             }
             
         } catch (ClassNotFoundException | SQLException ex) {
-           //Logger.getLogger(Record.class.getName()).log(Level.SEVERE, null, ex);
+           Logger.getLogger(Record.class.getName()).log(Level.SEVERE, null, ex);
         }
    
     }    
